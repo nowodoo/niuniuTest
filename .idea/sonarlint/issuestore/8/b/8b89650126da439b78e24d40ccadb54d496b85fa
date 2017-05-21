@@ -1,0 +1,14 @@
+
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8©ÙëâÁ+
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8©ÙëâÁ+
+Œ"squid:ClassVariableVisibilityCheck"TMake distance a static final constant or non-public and provide accessors if needed.(›ãæéúÿÿÿÿ8Õ‘ÜãÁ+
+›"squid:ClassVariableVisibilityCheck"cMake lastTimeClockCountOnMsg a static final constant or non-public and provide accessors if needed.(çšÓ úÿÿÿÿ8Øú¨ÂÂ+
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ·âÔ8²¸ãÁ+
+‘"squid:ClassVariableVisibilityCheck"YMake startPosition a static final constant or non-public and provide accessors if needed.(ÑŒÈŞıÿÿÿÿ8¡©µÀÂ+
+‰"squid:ClassVariableVisibilityCheck"QMake speed a static final constant or non-public and provide accessors if needed.(¼‚·‰şÿÿÿÿ8åªÒâÁ+
+ˆ"squid:ClassVariableVisibilityCheck"UMake direction a static final constant or non-public and provide accessors if needed.(ÀñË™8¥Ô¢ãÁ+
+"squid:ClassVariableVisibilityCheck"ZMake timeClockCount a static final constant or non-public and provide accessors if needed.(´Æä¶8‹ñ„ÂÂ+
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ·âÔ8ØÍ¡âÁ+
+:squid:S2131"Use "Double.toString" instead.(ÃÏ¾¡8‡ˆ‹Â+
+ssquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ·âÔ8ÏÖşãÁ+
+‡"squid:ClassVariableVisibilityCheck"TMake nodeCode a static final constant or non-public and provide accessors if needed.(Éü©É8ØÍ¡âÁ+

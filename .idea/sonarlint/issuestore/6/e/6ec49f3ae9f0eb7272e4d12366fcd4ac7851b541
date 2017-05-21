@@ -1,0 +1,8 @@
+
+Usquid:S3599"9Replace this syntax with a different type initialization.(Ûì»ù8üŒ¸ÆÂ+
+bsquid:S1126"AReplace this if-then-else statement by a single return statement.(ˆìÛŞøÿÿÿÿ8³øõÆÂ+
+usquid:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(Ûì»ù8üŒ¸ÆÂ+
+Vsquid:S1854":Remove this useless assignment to local variable "result".(ÖĞ‹À8À€Ó¿Â+
+bsquid:S1126"AReplace this if-then-else statement by a single return statement.(©·ü÷úÿÿÿÿ8ƒÀ’ÂÂ+
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(»Íğğ8³øõÆÂ+
+hsquid:S1871"LThis branch's code block is the same as the block for the branch on line 23.(å¥‡8À€Ó¿Â+
