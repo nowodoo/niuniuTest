@@ -1,6 +1,6 @@
 # niuniuTest
 
-This project is just for realistic modeling proplem about car driving and message info transferring.
+This project is just for realistic modeling problem about car driving and message infomation transferring.
 
 # enviroment detail:
 maven:3.0.5 
